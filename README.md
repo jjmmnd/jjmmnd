@@ -30,4 +30,4 @@
 - 반려인을 위한 위치 기반 소셜 플랫폼, <a href="https://github.com/jjmmnd/Fit-a-PetBE">Fit a Pet</a> <sub>(2025.08 ~ 2025.10) Backend 개발</sub>
 - 마포구 화장실 정보 서비스, <a href="https://github.com/jjmmnd/Mapoop-BE">Mapoop</a> <sub>(2025.07 ~ 2025.08) Backend 개발</sub>
 - 새치 예방 루틴 플랫폼, <a href="https://github.com/sinchon-oneTrillion/Backend">캐치새치</a> <sub>(2025.09) Backend 개발</sub>
-- C++ Select 모델 기반 멀티플레이어 게임 서버, MMORPG 게임 서버</a> <sub>(2024.06 ~ 2024.08) 개인 프로젝트</sub>
+- C++ MMORPG 게임 서버</a> <sub>(2024.06 ~ 2024.08) 개인 프로젝트</sub>
